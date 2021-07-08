@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-08T20:23:45.018354988+05:30"
+    description: A Helm chart for Kubernetes himanshu
+    digest: 228e2cdf68fd174acb209611651f50eb43691b2b1937cde228f262e18afd938f
+    name: gitchart
+    type: application
+    urls:
+    - gitchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-08T20:23:45.017690134+05:30"
